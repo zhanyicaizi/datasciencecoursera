@@ -1,6 +1,3 @@
 # datasciencecoursera
-## tryout 1
-
-* hi
-* this trying out 
-* Bye
+## tryout1: clone datasciencecoursera to loacl is successed
+## tryout2: add, commit and push the changes in this README.md to remote
